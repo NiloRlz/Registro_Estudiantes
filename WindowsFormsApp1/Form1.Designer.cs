@@ -63,7 +63,7 @@
 			// 
 			this.groupBox3.BackColor = System.Drawing.SystemColors.ButtonShadow;
 			this.groupBox3.Controls.Add(this.dataGridView1);
-			this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.groupBox3.ForeColor = System.Drawing.SystemColors.ControlText;
 			this.groupBox3.Location = new System.Drawing.Point(12, 365);
 			this.groupBox3.Name = "groupBox3";
@@ -79,10 +79,10 @@
 			this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
 			this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
 			this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.dataGridView1.Location = new System.Drawing.Point(3, 25);
+			this.dataGridView1.Location = new System.Drawing.Point(3, 27);
 			this.dataGridView1.Name = "dataGridView1";
 			this.dataGridView1.ReadOnly = true;
-			this.dataGridView1.Size = new System.Drawing.Size(592, 167);
+			this.dataGridView1.Size = new System.Drawing.Size(592, 165);
 			this.dataGridView1.TabIndex = 0;
 			this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
 			// 
