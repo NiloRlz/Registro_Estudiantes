@@ -63,7 +63,7 @@
 			// 
 			this.groupBox3.BackColor = System.Drawing.SystemColors.ButtonShadow;
 			this.groupBox3.Controls.Add(this.dataGridView1);
-			this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.groupBox3.ForeColor = System.Drawing.SystemColors.ControlText;
 			this.groupBox3.Location = new System.Drawing.Point(12, 365);
 			this.groupBox3.Name = "groupBox3";
@@ -79,10 +79,10 @@
 			this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
 			this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
 			this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.dataGridView1.Location = new System.Drawing.Point(3, 22);
+			this.dataGridView1.Location = new System.Drawing.Point(3, 25);
 			this.dataGridView1.Name = "dataGridView1";
 			this.dataGridView1.ReadOnly = true;
-			this.dataGridView1.Size = new System.Drawing.Size(592, 170);
+			this.dataGridView1.Size = new System.Drawing.Size(592, 167);
 			this.dataGridView1.TabIndex = 0;
 			this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
 			// 
@@ -147,7 +147,7 @@
 			this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
 			this.pictureBox1.Location = new System.Drawing.Point(357, 25);
 			this.pictureBox1.Name = "pictureBox1";
-			this.pictureBox1.Size = new System.Drawing.Size(192, 178);
+			this.pictureBox1.Size = new System.Drawing.Size(197, 183);
 			this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
 			this.pictureBox1.TabIndex = 8;
 			this.pictureBox1.TabStop = false;
@@ -271,11 +271,11 @@
 			// label7
 			// 
 			this.label7.AutoSize = true;
-			this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label7.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-			this.label7.Location = new System.Drawing.Point(194, 34);
+			this.label7.Location = new System.Drawing.Point(141, 34);
 			this.label7.Name = "label7";
-			this.label7.Size = new System.Drawing.Size(241, 18);
+			this.label7.Size = new System.Drawing.Size(296, 24);
 			this.label7.TabIndex = 14;
 			this.label7.Text = "REGISTRO DE ESTUDIANTES";
 			// 

@@ -20,3 +20,14 @@ C:\Users\Alumno\Downloads\MantenimientoC#\MantenimientoC#\Capa_Negocio\obj\Debug
 C:\Users\Alumno\Downloads\MantenimientoC#\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
 C:\Users\Alumno\Downloads\MantenimientoC#\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.dll
 C:\Users\Alumno\Downloads\MantenimientoC#\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\Alumno\Desktop\Students_NL\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\Alumno\Desktop\Students_NL\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Alumno\Desktop\Students_NL\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\Alumno\Desktop\Students_NL\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\Alumno\Desktop\Students_NL\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Alumno\Desktop\Students_NL\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\Alumno\Desktop\Students_NL\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Students_NL\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Students_NL\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\Alumno\Desktop\Students_NL\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\Alumno\Desktop\Students_NL\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
